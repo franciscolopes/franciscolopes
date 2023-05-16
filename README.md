@@ -1,6 +1,5 @@
 ### Hi! I'm Francisco
 
- 📡 Machine Learning Engineer
 
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscolopes&show_icons=true&theme=aura_dark&include_all_commits=false&count_private=true"/>
