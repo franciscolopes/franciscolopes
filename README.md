@@ -1,4 +1,11 @@
-### Hi! I'm Francisco
+### Hi, I'm Francisco Lopes 👋
+
+🔬 Researcher | NLP · AI · Bioinformatics
+
+💻 Python · R · SQL
+📊 pandas · NumPy · SciPy · scikit-learn
+🧠 spaCy · NLTK · Transformers · PyTorch
+⚙️ Git · Linux · Jupyter · Conda
 
 
  <div>
